@@ -9,10 +9,10 @@
 - 🔭 I’m currently working on [Github Profile](https://github.com/MarkMagdyAziz)  
   
 
-- 🌱 I’m currently learning MEARN Stack Technologies to be a full stack developer  
+- 🌱 I’m learning MEARN Stack Technologies to be a full stack developer  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MEARN stack and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
