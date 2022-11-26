@@ -10,13 +10,7 @@
   
 
 - 🌱 I’m learning MEARN Stack Technologies to be a full stack developer  
-  
-
-- ❓ Ask me about anything related to MEARN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
+    
 
 <br/>  
 
