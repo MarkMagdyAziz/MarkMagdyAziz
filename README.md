@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Mark Front End Developer 👨‍💻 </div>  
+### <div align="center">I'm a Front End Developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [Github Profile](https://github.com/MarkMagdyAziz)  
   
 
-- 🌱 I’m learning MEARN Stack Technologies to be a full stack developer  
+- 🌱 I’m learning Front End Technologies to be a Front End Engineer developer  
     
 
 <br/>  
