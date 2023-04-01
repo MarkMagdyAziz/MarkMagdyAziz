@@ -6,7 +6,7 @@
 ### <div align="center">I'm a Front End Developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on at TransformUs  
+- 🔭 I’m currently working at TransformUs  
   
 
 - 🌱 I’m learning Front End Technologies to be a Front End Engineer
