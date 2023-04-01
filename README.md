@@ -6,10 +6,10 @@
 ### <div align="center">I'm a Front End Developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on [Github Profile](https://github.com/MarkMagdyAziz)  
+- 🔭 I’m currently working on at TransformUs  
   
 
-- 🌱 I’m excited to learn Front End Technologies to be a Front End Engineer
+- 🌱 I’m learning Front End Technologies to be a Front End Engineer
     
 
 <br/>  
