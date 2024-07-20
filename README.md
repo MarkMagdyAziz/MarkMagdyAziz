@@ -6,10 +6,10 @@
 ### <div align="center">I'm a Front End Developer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working at TransformUs  
+- 🔭 I’m currently working at CyShield  
   
 
-- 🌱 I’m learning Front End Technologies to be a Front End Engineer
+- 🌱 I am a passionate Front End developer with two years of industry experience in building front-end applications using Angular, React and Next Js
     
 
 <br/>  
