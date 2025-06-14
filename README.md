@@ -3,10 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm a Front End Developer 👨‍💻 </div>  
+### <div align="center">I'm a Front End Engineer 👨‍💻 </div>  
   
 
-- 🔭 I’m currently working at CyShield  
+- 🔭 I’m currently working at CyShield as Software Engineer
   
 
 - 🌱 I am a passionate Front End developer with two years of industry experience in building front-end applications using Angular, React and Next Js
