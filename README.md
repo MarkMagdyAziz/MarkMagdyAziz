@@ -9,7 +9,7 @@
 - 🔭 I’m currently working at CyShield as Software Engineer
   
 
-- 🌱 I am a passionate Front End developer with two years of industry experience in building front-end applications using Angular, React and Next Js
+- 🌱 I am a passionate Front End Engineer with over three years of industry experience in building front-end applications using Angular, React and Next Js
     
 
 <br/>  
